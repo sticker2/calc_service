@@ -9,7 +9,7 @@
 2. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/ваш_проект/calc_service
+   git clone git@github.com:sticker2/calc_service.git
    cd calc_service
    ```
 
