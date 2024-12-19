@@ -9,8 +9,9 @@
 2. Клонируйте репозиторий:
 
    ```bash
-   git clone git@github.com:sticker2/calc_service.git
+   git clone https://github.com/sticker2/calc_service
    cd calc_service
+
    ```
 
 3. Запустите сервер:
